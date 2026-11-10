@@ -1,0 +1,1 @@
+# So basicly what this code do is make the computer chose(random chose) between 3 door and afher his frist guess we gonna revel that a door he (not the one he chosed) is not the right door and we gonna see if changing the door make the posibikity of guessing the other door higher sorry for the bad typo
